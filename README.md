@@ -1,4 +1,4 @@
-# # app Calcular Notas :school:
+# app Calcular Notas :school:
 
 App criado em minhas primeiras aulas de Kotlin no Android Studio.
 
