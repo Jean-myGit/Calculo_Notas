@@ -33,4 +33,3 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
-//$"O aluno foi APROVADO! \nMédia Final: {$media} \nFaltas Total: {$faltas}"
