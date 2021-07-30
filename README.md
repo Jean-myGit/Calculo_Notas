@@ -1,8 +1,8 @@
 # app Calcular Notas :school:
 
-App criado em minhas primeiras aulas de Kotlin no Android Studio.
+App criado em minhas primeiras aulas de Kotlin, através do Android Studio.
 
-Calcula a média de aluno com suas faltas e diz se ele foi aprovado ou não.
+app para Calcular a Média de um aluno calcaular suas faltas e dize se ele foi Aprovado ou não.
 
 <img src="CalcularNotas.png" alt="CalcularNotas" style="zoom:40%;" />
 
@@ -16,7 +16,8 @@ Calcula a média de aluno com suas faltas e diz se ele foi aprovado ou não.
 
 /
 
-#### Jean da Costa
+by Jean da Costa
+#DigitalInnovationOne
 
 
 
